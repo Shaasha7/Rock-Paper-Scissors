@@ -145,6 +145,8 @@ class Game:
 if __name__ == "__main__":
     game = Game()
     game.play()
+    <img width="1913" height="997" alt="Screenshot 2026-03-24 092259" src="https://github.com/user-attachments/assets/bd9c7501-aebd-4014-bbcc-3c548d372c04" />
+
 📊 Sample Output
 User selects option
 Computer generates random choice
